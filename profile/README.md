@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://your-domain.com/assets/shirshir-logo-light.png" width="120" />
+  <img src="https://shirshirgroup.com/assets/logo-CSuZrrMY.png" width="120" />
 </p>
 
 <h1 align="center">Shirshir Group</h1>
