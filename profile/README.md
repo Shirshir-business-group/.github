@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://your-domain.com/assets/banner.jpg" alt="Shirshir Group Banner" />
+  <img src="https://shirshirgroup.com/banner.jpg" alt="Shirshir Group Banner" />
 </p>
 
 <p align="center">
