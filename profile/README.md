@@ -13,7 +13,7 @@
 <h1 align="center">Shirshir Group</h1>
 
 <p align="center">
-  Agriculture • Manufacturing • Automotive • Aviation • Trade • Infrastructure
+  Agriculture • Manufacturing • Aviation • Trade • Infrastructure
 </p>
 
 <p align="center">
@@ -39,9 +39,6 @@ Our operations are structured around real-world industrial value creation — fr
 - **Agriculture & Agro-Industrial Development**  
   Large-scale farming, sourcing, and export of cereals, oilseeds, coffee, and spices.
 
-- **Food Manufacturing & Processing**  
-  Industrial production of canned foods, tomato paste, and packaged goods.
-
 - **Automotive & Industrial Manufacturing**  
   Vehicle assembly and mobility solutions for regional transport systems.
 
@@ -61,24 +58,9 @@ Our operations are structured around real-world industrial value creation — fr
 | Company | Focus |
 |--------|------|
 | Chamagak Agricultural Investments | Agricultural production, food security & export systems |
-| Bishoftu Valley Food Complex | Industrial food processing & canned goods manufacturing |
-| Nisir Automotive | Vehicle assembly & industrial mobility manufacturing |
 | AirEx Aviation | Aviation logistics, coordination & flight support |
 | Armah Coffee Export | Premium Ethiopian coffee & agricultural exports |
 | Armah (Shanghai) Trading Co., Ltd | International import/export operations |
-
----
-
-## What this organization contains
-
-This GitHub organization hosts the digital backbone of Shirshir Group operations:
-
-- Corporate websites & brand platforms  
-- Internal dashboards & admin systems  
-- Logistics and supply chain tools  
-- Export/import management systems  
-- API services & backend infrastructure  
-- Experimental and R&D projects  
 
 ---
 
@@ -86,12 +68,6 @@ This GitHub organization hosts the digital backbone of Shirshir Group operations
 
 ### Agriculture Transformation
 Large-scale production systems supporting food security, export growth, and sustainable farming practices.
-
-### Industrial Food Processing
-Modern facilities converting raw agricultural output into high-quality, export-ready food products.
-
-### Automotive Assembly Program
-Local manufacturing of commercial vehicles to strengthen mobility infrastructure and reduce import dependency.
 
 ### Aviation & Logistics Network
 Integrated flight support and cargo coordination systems improving regional connectivity.
