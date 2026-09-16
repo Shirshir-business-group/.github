@@ -39,9 +39,6 @@ Our operations are structured around real-world industrial value creation — fr
 - **Agriculture & Agro-Industrial Development**  
   Large-scale farming, sourcing, and export of cereals, oilseeds, coffee, and spices.
 
-- **Automotive & Industrial Manufacturing**  
-  Vehicle assembly and mobility solutions for regional transport systems.
-
 - **Aviation & Logistics Services**  
   Flight support, cargo coordination, and aviation operations across Eastern Africa.
 
