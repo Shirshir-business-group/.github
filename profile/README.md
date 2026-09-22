@@ -48,19 +48,6 @@ Our operations are structured around real-world industrial value creation — fr
 - **Infrastructure & Industrial Projects**  
   Agro-parks, logistics hubs, and national-scale industrial developments.
 
----
-
-## Key Companies
-
-| Company | Focus |
-|--------|------|
-| Chamagak Agricultural Investments | Agricultural production, food security & export systems |
-| AirEx Aviation | Aviation logistics, coordination & flight support |
-| Armah Coffee Export | Premium Ethiopian coffee & agricultural exports |
-| Armah (Shanghai) Trading Co., Ltd | International import/export operations |
-
----
-
 ## Flagship Initiatives
 
 ### Agriculture Transformation
