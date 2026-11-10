@@ -30,7 +30,7 @@ Shirshir Group is a diversified industrial and investment group operating across
 
 We focus on developing scalable, production-driven ecosystems that strengthen industrial capacity, improve logistics efficiency, and expand export competitiveness.
 
-Our operations are structured around real-world industrial value creation — from agriculture and manufacturing to aviation and global trade.
+Our operations are structured around real-world industrial value creation — from agriculture and manufacturing to global trade.
 
 ---
 
@@ -38,9 +38,6 @@ Our operations are structured around real-world industrial value creation — fr
 
 - **Agriculture & Agro-Industrial Development**  
   Large-scale farming, sourcing, and export of cereals, oilseeds, coffee, and spices.
-
-- **Aviation & Logistics Services**  
-  Flight support, cargo coordination, and aviation operations across Eastern Africa.
 
 - **Import & Export Trade**  
   Strategic sourcing and global distribution of industrial and agricultural goods.
