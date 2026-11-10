@@ -13,7 +13,7 @@
 <h1 align="center">Shirshir Group</h1>
 
 <p align="center">
-  Agriculture • Manufacturing • Aviation • Trade • Infrastructure
+  Agriculture • Manufacturing • Trade • Infrastructure
 </p>
 
 <p align="center">
