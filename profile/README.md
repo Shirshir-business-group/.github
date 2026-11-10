@@ -50,9 +50,6 @@ Our operations are structured around real-world industrial value creation — fr
 ### Agriculture Transformation
 Large-scale production systems supporting food security, export growth, and sustainable farming practices.
 
-### Aviation & Logistics Network
-Integrated flight support and cargo coordination systems improving regional connectivity.
-
 ### Trade Expansion Systems
 Global import/export pipelines connecting Ethiopian production with international markets.
 
